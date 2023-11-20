@@ -1,4 +1,4 @@
-# Jornado do Herói - Frontend em React
+# Jornado do Herói - Frontend-React
 
 
 ## Como Executar o Projeto
